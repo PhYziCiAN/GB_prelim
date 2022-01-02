@@ -7,5 +7,5 @@ for(int i=0;i<10;i++)
 }
 for(int i = 0;i < 10; i++) //++i лучше
 {
-    Console.WriteLine(a[i]);
+    Console.Write("  "+ a[i]);
 }
