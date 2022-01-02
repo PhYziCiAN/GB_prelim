@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PhYziCiAN\\.nuget\\packages\\": {}
+    "C:\\Users\\asJer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Docs\\Google Диск\\Learn_GB\\GB_prelim\\GB_prelim\\GB_prelim.csproj",
+      "projectUniqueName": "G:\\Мой диск\\Learn_GB\\GB_prelim\\GB_prelim.csproj",
       "projectName": "GB_prelim",
-      "projectPath": "D:\\Docs\\Google Диск\\Learn_GB\\GB_prelim\\GB_prelim\\GB_prelim.csproj",
-      "packagesPath": "C:\\Users\\PhYziCiAN\\.nuget\\packages\\",
-      "outputPath": "D:\\Docs\\Google Диск\\Learn_GB\\GB_prelim\\GB_prelim\\obj\\",
+      "projectPath": "G:\\Мой диск\\Learn_GB\\GB_prelim\\GB_prelim.csproj",
+      "packagesPath": "C:\\Users\\asJer\\.nuget\\packages\\",
+      "outputPath": "G:\\Мой диск\\Learn_GB\\GB_prelim\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PhYziCiAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\asJer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
