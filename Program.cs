@@ -16,7 +16,17 @@ for (int j = 0; j < a.Length; j++)
         if (a[j] % 2 ==0)
         {
             b[j] = a[j];
-            Console.WriteLine("\n" + b[j]); //show second array
+            Console.WriteLine("\n" + b[j]); //show second array version 1
         }
     }
 
+int[] c = new int[10];
+
+for (int k = 0; k < a.Length; k++)
+    {
+        if (a[k] > 8)
+        {
+            b[k] = a[k];
+            Console.Write("  " + b[k]); //show second array version 2
+        }
+    }
