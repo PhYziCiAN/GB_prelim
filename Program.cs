@@ -19,3 +19,4 @@ for (int j = 0; j < a.Length; j++)
             Console.WriteLine("\n" + b[j]); //show second array
         }
     }
+
