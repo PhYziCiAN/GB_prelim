@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ScYx1rWU29l3j70Azdoqw2uZdboJMOflwBu5Ls4fibZ7mBmPz3AmPJ6C+gFVqDQlT21c4J8urspp8HtPrReQQw==",
+  "dgSpecHash": "smU2tP8jVpewdGl1kQTQggj1h3tFa0JgXy+/HjXpl4FBOgbvKsKcg33ihE3nJyTEta0dvYS7TonkLhuo8cbf3A==",
   "success": true,
-  "projectFilePath": "G:\\Мой диск\\Learn_GB\\GB_prelim\\GB_prelim.csproj",
+  "projectFilePath": "/home/phyzician/VSCodeRepo/GB_prelim/GB_prelim.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,30 +1,45 @@
-D:\Docs\Google Диск\Learn_GB\GB_prelim\GB_prelim\bin\Debug\net6.0\GB_prelim.exe
-D:\Docs\Google Диск\Learn_GB\GB_prelim\GB_prelim\bin\Debug\net6.0\GB_prelim.deps.json
-D:\Docs\Google Диск\Learn_GB\GB_prelim\GB_prelim\bin\Debug\net6.0\GB_prelim.runtimeconfig.json
-D:\Docs\Google Диск\Learn_GB\GB_prelim\GB_prelim\bin\Debug\net6.0\GB_prelim.dll
-D:\Docs\Google Диск\Learn_GB\GB_prelim\GB_prelim\bin\Debug\net6.0\ref\GB_prelim.dll
-D:\Docs\Google Диск\Learn_GB\GB_prelim\GB_prelim\bin\Debug\net6.0\GB_prelim.pdb
-D:\Docs\Google Диск\Learn_GB\GB_prelim\GB_prelim\obj\Debug\net6.0\GB_prelim.csproj.AssemblyReference.cache
-D:\Docs\Google Диск\Learn_GB\GB_prelim\GB_prelim\obj\Debug\net6.0\GB_prelim.GeneratedMSBuildEditorConfig.editorconfig
-D:\Docs\Google Диск\Learn_GB\GB_prelim\GB_prelim\obj\Debug\net6.0\GB_prelim.AssemblyInfoInputs.cache
-D:\Docs\Google Диск\Learn_GB\GB_prelim\GB_prelim\obj\Debug\net6.0\GB_prelim.AssemblyInfo.cs
-D:\Docs\Google Диск\Learn_GB\GB_prelim\GB_prelim\obj\Debug\net6.0\GB_prelim.csproj.CoreCompileInputs.cache
-D:\Docs\Google Диск\Learn_GB\GB_prelim\GB_prelim\obj\Debug\net6.0\GB_prelim.dll
-D:\Docs\Google Диск\Learn_GB\GB_prelim\GB_prelim\obj\Debug\net6.0\ref\GB_prelim.dll
-D:\Docs\Google Диск\Learn_GB\GB_prelim\GB_prelim\obj\Debug\net6.0\GB_prelim.pdb
-D:\Docs\Google Диск\Learn_GB\GB_prelim\GB_prelim\obj\Debug\net6.0\GB_prelim.genruntimeconfig.cache
-G:\Мой диск\Learn_GB\GB_prelim\bin\Debug\net6.0\GB_prelim.exe
-G:\Мой диск\Learn_GB\GB_prelim\bin\Debug\net6.0\GB_prelim.deps.json
-G:\Мой диск\Learn_GB\GB_prelim\bin\Debug\net6.0\GB_prelim.runtimeconfig.json
-G:\Мой диск\Learn_GB\GB_prelim\bin\Debug\net6.0\GB_prelim.dll
-G:\Мой диск\Learn_GB\GB_prelim\bin\Debug\net6.0\ref\GB_prelim.dll
-G:\Мой диск\Learn_GB\GB_prelim\bin\Debug\net6.0\GB_prelim.pdb
-G:\Мой диск\Learn_GB\GB_prelim\obj\Debug\net6.0\GB_prelim.csproj.AssemblyReference.cache
-G:\Мой диск\Learn_GB\GB_prelim\obj\Debug\net6.0\GB_prelim.GeneratedMSBuildEditorConfig.editorconfig
-G:\Мой диск\Learn_GB\GB_prelim\obj\Debug\net6.0\GB_prelim.AssemblyInfoInputs.cache
-G:\Мой диск\Learn_GB\GB_prelim\obj\Debug\net6.0\GB_prelim.AssemblyInfo.cs
-G:\Мой диск\Learn_GB\GB_prelim\obj\Debug\net6.0\GB_prelim.csproj.CoreCompileInputs.cache
-G:\Мой диск\Learn_GB\GB_prelim\obj\Debug\net6.0\GB_prelim.dll
-G:\Мой диск\Learn_GB\GB_prelim\obj\Debug\net6.0\ref\GB_prelim.dll
-G:\Мой диск\Learn_GB\GB_prelim\obj\Debug\net6.0\GB_prelim.pdb
-G:\Мой диск\Learn_GB\GB_prelim\obj\Debug\net6.0\GB_prelim.genruntimeconfig.cache
+D:/Docs/Google Диск/Learn_GB/GB_prelim/GB_prelim/bin/Debug/net6.0/GB_prelim.exe
+D:/Docs/Google Диск/Learn_GB/GB_prelim/GB_prelim/bin/Debug/net6.0/GB_prelim.deps.json
+D:/Docs/Google Диск/Learn_GB/GB_prelim/GB_prelim/bin/Debug/net6.0/GB_prelim.runtimeconfig.json
+D:/Docs/Google Диск/Learn_GB/GB_prelim/GB_prelim/bin/Debug/net6.0/GB_prelim.dll
+D:/Docs/Google Диск/Learn_GB/GB_prelim/GB_prelim/bin/Debug/net6.0/ref/GB_prelim.dll
+D:/Docs/Google Диск/Learn_GB/GB_prelim/GB_prelim/bin/Debug/net6.0/GB_prelim.pdb
+D:/Docs/Google Диск/Learn_GB/GB_prelim/GB_prelim/obj/Debug/net6.0/GB_prelim.csproj.AssemblyReference.cache
+D:/Docs/Google Диск/Learn_GB/GB_prelim/GB_prelim/obj/Debug/net6.0/GB_prelim.GeneratedMSBuildEditorConfig.editorconfig
+D:/Docs/Google Диск/Learn_GB/GB_prelim/GB_prelim/obj/Debug/net6.0/GB_prelim.AssemblyInfoInputs.cache
+D:/Docs/Google Диск/Learn_GB/GB_prelim/GB_prelim/obj/Debug/net6.0/GB_prelim.AssemblyInfo.cs
+D:/Docs/Google Диск/Learn_GB/GB_prelim/GB_prelim/obj/Debug/net6.0/GB_prelim.csproj.CoreCompileInputs.cache
+D:/Docs/Google Диск/Learn_GB/GB_prelim/GB_prelim/obj/Debug/net6.0/GB_prelim.dll
+D:/Docs/Google Диск/Learn_GB/GB_prelim/GB_prelim/obj/Debug/net6.0/ref/GB_prelim.dll
+D:/Docs/Google Диск/Learn_GB/GB_prelim/GB_prelim/obj/Debug/net6.0/GB_prelim.pdb
+D:/Docs/Google Диск/Learn_GB/GB_prelim/GB_prelim/obj/Debug/net6.0/GB_prelim.genruntimeconfig.cache
+G:/Мой диск/Learn_GB/GB_prelim/bin/Debug/net6.0/GB_prelim.exe
+G:/Мой диск/Learn_GB/GB_prelim/bin/Debug/net6.0/GB_prelim.deps.json
+G:/Мой диск/Learn_GB/GB_prelim/bin/Debug/net6.0/GB_prelim.runtimeconfig.json
+G:/Мой диск/Learn_GB/GB_prelim/bin/Debug/net6.0/GB_prelim.dll
+G:/Мой диск/Learn_GB/GB_prelim/bin/Debug/net6.0/ref/GB_prelim.dll
+G:/Мой диск/Learn_GB/GB_prelim/bin/Debug/net6.0/GB_prelim.pdb
+G:/Мой диск/Learn_GB/GB_prelim/obj/Debug/net6.0/GB_prelim.csproj.AssemblyReference.cache
+G:/Мой диск/Learn_GB/GB_prelim/obj/Debug/net6.0/GB_prelim.GeneratedMSBuildEditorConfig.editorconfig
+G:/Мой диск/Learn_GB/GB_prelim/obj/Debug/net6.0/GB_prelim.AssemblyInfoInputs.cache
+G:/Мой диск/Learn_GB/GB_prelim/obj/Debug/net6.0/GB_prelim.AssemblyInfo.cs
+G:/Мой диск/Learn_GB/GB_prelim/obj/Debug/net6.0/GB_prelim.csproj.CoreCompileInputs.cache
+G:/Мой диск/Learn_GB/GB_prelim/obj/Debug/net6.0/GB_prelim.dll
+G:/Мой диск/Learn_GB/GB_prelim/obj/Debug/net6.0/ref/GB_prelim.dll
+G:/Мой диск/Learn_GB/GB_prelim/obj/Debug/net6.0/GB_prelim.pdb
+G:/Мой диск/Learn_GB/GB_prelim/obj/Debug/net6.0/GB_prelim.genruntimeconfig.cache
+/home/phyzician/VSCodeRepo/GB_prelim/bin/Debug/net6.0/GB_prelim
+/home/phyzician/VSCodeRepo/GB_prelim/bin/Debug/net6.0/GB_prelim.deps.json
+/home/phyzician/VSCodeRepo/GB_prelim/bin/Debug/net6.0/GB_prelim.runtimeconfig.json
+/home/phyzician/VSCodeRepo/GB_prelim/bin/Debug/net6.0/GB_prelim.dll
+/home/phyzician/VSCodeRepo/GB_prelim/bin/Debug/net6.0/GB_prelim.pdb
+/home/phyzician/VSCodeRepo/GB_prelim/obj/Debug/net6.0/GB_prelim.csproj.AssemblyReference.cache
+/home/phyzician/VSCodeRepo/GB_prelim/obj/Debug/net6.0/GB_prelim.GeneratedMSBuildEditorConfig.editorconfig
+/home/phyzician/VSCodeRepo/GB_prelim/obj/Debug/net6.0/GB_prelim.AssemblyInfoInputs.cache
+/home/phyzician/VSCodeRepo/GB_prelim/obj/Debug/net6.0/GB_prelim.AssemblyInfo.cs
+/home/phyzician/VSCodeRepo/GB_prelim/obj/Debug/net6.0/GB_prelim.csproj.CoreCompileInputs.cache
+/home/phyzician/VSCodeRepo/GB_prelim/obj/Debug/net6.0/GB_prelim.dll
+/home/phyzician/VSCodeRepo/GB_prelim/obj/Debug/net6.0/refint/GB_prelim.dll
+/home/phyzician/VSCodeRepo/GB_prelim/obj/Debug/net6.0/GB_prelim.pdb
+/home/phyzician/VSCodeRepo/GB_prelim/obj/Debug/net6.0/GB_prelim.genruntimeconfig.cache
+/home/phyzician/VSCodeRepo/GB_prelim/obj/Debug/net6.0/ref/GB_prelim.dll

@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\asJer\\.nuget\\packages\\": {}
+    "/home/phyzician/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Мой диск\\Learn_GB\\GB_prelim\\GB_prelim.csproj",
+      "projectUniqueName": "/home/phyzician/VSCodeRepo/GB_prelim/GB_prelim.csproj",
       "projectName": "GB_prelim",
-      "projectPath": "G:\\Мой диск\\Learn_GB\\GB_prelim\\GB_prelim.csproj",
-      "packagesPath": "C:\\Users\\asJer\\.nuget\\packages\\",
-      "outputPath": "G:\\Мой диск\\Learn_GB\\GB_prelim\\obj\\",
+      "projectPath": "/home/phyzician/VSCodeRepo/GB_prelim/GB_prelim.csproj",
+      "packagesPath": "/home/phyzician/.nuget/packages/",
+      "outputPath": "/home/phyzician/VSCodeRepo/GB_prelim/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\asJer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/phyzician/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }
